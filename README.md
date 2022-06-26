@@ -9,5 +9,5 @@
 ### Tópicos :bookmark_tabs:
 
 - Git / GitHub :cat:
-- 
+- Javascript :computer:
 
